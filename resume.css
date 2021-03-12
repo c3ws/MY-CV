@@ -9,7 +9,7 @@
 }
 
 body {
-  background: #45574b;
+  background: #2a445a;
   font-size: 14px;
   line-height: 22px;
 }
@@ -36,7 +36,7 @@ body {
   width: 280px;
   /* background: #0bb5f4;
    */
-   background: rgb(27, 94, 27);
+   background: rgb(27, 43, 94);
    /* background: rgba(79, 117, 79, 0.411); */
 }
 
@@ -94,7 +94,7 @@ body {
   height: 35px;
   background: #fff;
   /* color: #0bb5f4; */
-  color: rgba(79, 146, 79, 0.993);
+  color: rgba(86, 79, 146, 0.993);
   border-radius: 50%;
   margin-right: 15px;
   font-size: 16px;
@@ -163,7 +163,7 @@ body {
   
   .resume .resume_right .bold {
     /* color: #0bb5f4; */
-    color: rgba(79, 146, 79, 0.993);
+    color: rgba(86, 79, 146, 0.993);
   }
   
   .resume .resume_right .resume_work ul,
@@ -200,7 +200,7 @@ body {
     height: 6px;
     border-radius: 50%;
     /* border: 2px solid #0bb5f4; */
-    border: 2px solid rgba(79, 146, 79, 0.993);
+    border: 2px solid rgba(79, 89, 146, 0.993);
   }
   
   .resume .resume_right .resume_work ul li:after,
@@ -212,7 +212,7 @@ body {
     width: 2px;
     height: 115px;
     /* background: #0bb5f4; */
-    background: rgba(79, 146, 79, 0.993);
+    background: rgba(88, 78, 133, 0.993);
   }
   
   .resume .resume_right .resume_hobby ul {
@@ -223,10 +223,10 @@ body {
   .resume .resume_right .resume_hobby ul li {
     width: 80px;
     height: 80px;
-    border: 2px solid rgba(79, 146, 79, 0.993);
+    border: 2px solid rgba(99, 79, 146, 0.993);
     border-radius: 50%;
     position: relative;
-    color: rgba(79, 146, 79, 0.993);
+    color: rgba(79, 84, 146, 0.993);
   }
   
   .resume .resume_right .resume_hobby ul li i {
@@ -240,7 +240,7 @@ body {
     right: -52px;
     width: 50px;
     height: 2px;
-    background: rgba(79, 146, 79, 0.993);
+    background: rgba(119, 79, 146, 0.993);
   }
   
   .resume .resume_right .resume_hobby ul li:last-child:before {
